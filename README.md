@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sankaran
 
-### Computer Science Engineering Student | Java & Python Developer | AI/ML & Full-Stack developer
+### Computer Science Engineering Student | Java & Python Developer | AI/ML & Full-Stack Developer
 
 I am a Computer Science Engineering student passionate about building practical software solutions and exploring Artificial Intelligence and Machine Learning.
 
